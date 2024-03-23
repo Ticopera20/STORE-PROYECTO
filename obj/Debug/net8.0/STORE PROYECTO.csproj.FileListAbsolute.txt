@@ -28,3 +28,4 @@ C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\refint\STORE PROYECTO.dll
 C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.pdb
 C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.genruntimeconfig.cache
 C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\ref\STORE PROYECTO.dll
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.sourcelink.json
