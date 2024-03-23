@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\STORE PROYECTO.staticwebassets.runtime.json
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\STORE PROYECTO.exe
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\STORE PROYECTO.deps.json
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\STORE PROYECTO.runtimeconfig.json
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\STORE PROYECTO.dll
+C:\Users\user\Desktop\STORE PROYECTO\bin\Debug\net8.0\STORE PROYECTO.pdb
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.AssemblyInfo.cs
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets\msbuild.STORE PROYECTO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets\msbuild.build.STORE PROYECTO.props
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.STORE PROYECTO.props
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.STORE PROYECTO.props
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\scopedcss\bundle\STORE PROYECTO.styles.css
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\scopedcss\projectbundle\STORE PROYECTO.bundle.scp.css
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.dll
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\refint\STORE PROYECTO.dll
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.pdb
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\STORE PROYECTO.genruntimeconfig.cache
+C:\Users\user\Desktop\STORE PROYECTO\obj\Debug\net8.0\ref\STORE PROYECTO.dll

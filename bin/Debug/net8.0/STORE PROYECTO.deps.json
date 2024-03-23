@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "STORE PROYECTO/1.0.0": {
+        "runtime": {
+          "STORE PROYECTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STORE PROYECTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
